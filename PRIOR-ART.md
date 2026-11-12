@@ -1,0 +1,3 @@
+# Prior art
+
+[OEIS A000170](https://oeis.org/A000170), read 2026-11-13, already quotes Simkin's theorem and its root-limit consequence, alongside Cloitre's earlier numerical conjecture. Michael Simkin, *The number of n-queens configurations*, Advances in Mathematics 427 (2023), 109127, [arXiv:2107.13460](https://arxiv.org/abs/2107.13460), proves the exponential rate. Parth Nobel, Akshay Agrawal and Stephen Boyd, *Computing tighter bounds on the n-queens constant via Newton's method*, Optimization Letters 17 (2023), 1229–1240, [arXiv:2112.03336](https://arxiv.org/abs/2112.03336), report refined numerical bounds. The lab's ChatGPT answer and Claude Code review derived the implications in 2026. No priority claim is made for this elementary consequence.
