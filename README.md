@@ -1,7 +1,7 @@
 # OEIS A000170: asymptotic constants (not yet submitted)
 
 <!-- oeis-status:begin -->
-**OEIS status: not submitted** (lab registry, 14 Nov 2026).
+**OEIS status: not submitted** (lab registry, 15 Nov 2026).
 
 - [A000170](https://oeis.org/A000170), asymptotic constants 0.944 / 2.570, not 0.90 / 2.54 (Simkin): **candidate** (2026-11-13: repository built (core c6)). Certificate: partial.
 
