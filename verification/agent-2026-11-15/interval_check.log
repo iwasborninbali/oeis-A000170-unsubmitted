@@ -1,0 +1,9 @@
+source alpha endpoints (assumed, not certified): 1.944000752 1.944001082
+alpha minus one exactly: 59000047/62500000 472000541/500000000
+exp(lower alpha minus one), first 80 DECIMAL digits (rigorously enclosed): 2.57024378401033084106514283403000569927406958843870000567373420443972812769151757
+exp(upper alpha minus one), first 80 DECIMAL digits (rigorously enclosed): 2.57024463219091951426375422445581108600595954406942453217017001962680324376039758
+exp(midpoint alpha minus one), 80 digits: 2.57024420810059019021516575987956631313582532062827881380553164360384171764724863
+mesh: 1001 exact rational values of alpha on inclusive source interval
+mesh: PASS, all 1001 exp intervals ordered and within endpoint enclosures
+endpoint order: 90; mesh order: 40; all arithmetic Fraction exact
+wall_clock_seconds: 0.352511
